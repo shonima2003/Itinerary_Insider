@@ -1,4 +1,4 @@
-# one-click-travel
+# Itinerary_Insider
 
 This is a responsive front-end website for a travel agency.Through this website customers to book their tickets.
 This website is built using HTML,CSS,Java Script.
